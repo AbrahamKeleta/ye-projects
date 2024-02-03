@@ -26,3 +26,12 @@ else:
     print("x is zero")
 
 ```
+
+
+### Take Aways
+
+1. Make sure everyone understands exercise
+2. Change numbers to test conditions
+3. What are your learnings?
+
+
