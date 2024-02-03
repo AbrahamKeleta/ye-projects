@@ -1,4 +1,4 @@
-# For Lopp Idea
+# For Loop Idea
 
 What is a for loop?
 
