@@ -35,7 +35,7 @@ Document can continue going down as long as it needs to.
 
 Try this below: 
 
-# Iterating over a list of numbers and calculating their sum
+### Iterating over a list of numbers and calculating their sum
 
 ```python
 numbers = [1, 2, 3, 4, 5]
