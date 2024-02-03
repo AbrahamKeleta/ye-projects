@@ -1,15 +1,10 @@
-# HTML + CSS Lesson (mock example)
+# For Lopp Idea document
 
 `code` 
 
-<html> 
-<head> 
-  <link ref="" href="">
-</head>
-<body>
-  <p> Hello World </p>
-</body>
-</html>
+def forLoop(): 
+  for i in 0..5:
+    print(i)
 
 `code`
 
