@@ -31,6 +31,23 @@ This is a test document that belongs to folder ye-projects, which can be renamed
 Document can continue going down as long as it needs to. 
 
 
+## Exercise 
+
+Try this below: 
+
+# Iterating over a list of numbers and calculating their sum
+
+```python
+numbers = [1, 2, 3, 4, 5]
+sum_of_numbers = 0
+
+for num in numbers:
+    sum_of_numbers += num
+
+print("The sum of numbers is:", sum_of_numbers)
+
+```
+
 ## Take Aways
 
 1. Make sure everyone has completed example
