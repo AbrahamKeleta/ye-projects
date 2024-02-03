@@ -1,4 +1,4 @@
-# For Lopp Idea document
+# For Lopp Idea
 
 ```python
 
